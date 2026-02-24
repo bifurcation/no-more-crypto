@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: TLS Working Group
+area: "Security"
+workgroup: "Transport Layer Security"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Transport Layer Security"
+  type: "Working Group"
+  mail: "tls@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/tls/"
+  github: "bifurcation/no-more-crypto"
+  latest: "https://bifurcation.github.io/no-more-crypto/draft-barnes-tls-this-draft-could-have-been-an-email.html"
 
 author:
  -
@@ -63,7 +63,7 @@ A document defining the use of a cryptographic scheme with TLS is acceptable if 
     * Changing the value of the Recommended column from "Y" or "D" to something else
 * The document specifies additional technical details that are required to interoperably implement the algorithm within TLS.
 
-In particular, a document should not be adopted if it simply registers a code point with Recommended=N, without providing additional technical details.  
+In particular, a document should not be adopted if it simply registers a code point with Recommended=N, without providing additional technical details.
 
 For example:
 
