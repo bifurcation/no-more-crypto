@@ -3,7 +3,7 @@ title: "Stop Doing Cryptographic Algorithm Drafts when Email to IANA is All You 
 abbrev: "No More Crypto"
 category: info
 
-docname: draft-barnes-tls-this-draft-could-have-been-an-email-latest
+docname: draft-barnes-tls-this-could-have-been-an-email-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -21,7 +21,7 @@ venue:
   mail: "tls@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/tls/"
   github: "bifurcation/no-more-crypto"
-  latest: "https://bifurcation.github.io/no-more-crypto/draft-barnes-tls-this-draft-could-have-been-an-email.html"
+  latest: "https://bifurcation.github.io/no-more-crypto/draft-barnes-tls-this-could-have-been-an-email.html"
 
 author:
  -
